@@ -1,0 +1,538 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+}
+
+*, :after, :before {
+  box-sizing: inherit;
+}
+
+p {
+  font-size: 16pt;
+}
+
+div.loader {
+  position : fixed;
+  z-index: 9999;
+  background : url('../img/icon_loader.gif') 50% 50% no-repeat;
+  top : 0px;
+  left : 0px;
+  height : 100%;
+  width : 100%;
+  cursor : wait;
+}
+
+div.option {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 80vw;
+  height: auto;
+}
+
+/*------------------ Code partie globale ------------------ */
+
+div.container {
+  position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	max-height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: grey;
+}
+
+@media only screen and (max-width: 800px) {
+  div.container, div.container div.subHeader {
+    flex-direction: column;
+  }
+  div.containerChild {
+    min-width: 66vw;
+  }
+  h1 {
+    font-size: 15pt;
+  }
+}
+/*------------------ Code partie gauche ------------------ */
+
+div.gauche {
+  background-color: #E7E7E7;
+  width: 100%;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+div.gauche::-webkit-scrollbar {
+  width: 0px;
+}
+
+div.fullScreen {
+  position: absolute;
+  top:0;right:0;
+  font-size: 25pt;
+  cursor: pointer;
+  padding: 1em;
+}
+
+div.fullScreen img {
+  width: 5vw;
+  height: auto;
+}
+
+/*------------------ Menu ------------------ */
+
+div.containerChild {
+  padding-top: 10vh;
+  margin-left: -100vw;
+  background-color: #172825;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 100vw;
+  width: 33vw;
+  height: auto;
+  transition: .5s ease-in-out;
+  position: absolute;
+  z-index: 3;
+  /*font-family: "Calibri", "Courier New", monospace;*/
+  letter-spacing: .2em;
+}
+
+div.child {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 1rem;
+  border-radius: 5px;
+  text-align: center;
+  padding: 1em;
+}
+
+div.child:hover {
+  background-color: #1E332E;
+}
+
+a.childItem {
+  text-decoration: none;
+  width: 100%;
+  height: auto;
+  color: #26C896;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+div.menu {
+  z-index: 1;
+  display: block;
+  position: absolute;
+  top:0;left:0;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  font-size: 2rem;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+div.cross {
+  padding: .5em;
+}
+
+div.menu img {
+  width: 5vw;
+  height: auto;
+}
+
+/*------------------ CV ------------------ */
+
+div.cv {
+  font-size: 11pt;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+div.headerCV {
+  font-size: 12pt;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #17A589;
+  color: white;
+}
+
+div.profil {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+div.profil h1, div.profil h2 {
+    margin: 0;
+    text-transform: uppercase;
+    word-spacing: .3em;
+    font-weight: lighter;
+}
+
+div.profil h1 {
+  font-size: 30pt;
+}
+
+div.profil h2 {
+  font-size: 23pt;
+}
+
+div.profil p {
+  font-size: 14pt;
+}
+
+div.subHeader {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+div.subProfil img {
+  width: 20vw;
+  border-radius: 100%;
+  margin: 1em ;
+  box-shadow: 5px 10px 15px #575555;
+  border: 1em solid white;
+  background-color: white;
+}
+
+div.subProfil {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 16pt;
+}
+
+div.subProfil p {
+  text-align: left;
+}
+
+div.subHeader p {
+    padding: 0;
+    margin: .3em;
+}
+
+div.baseHeader {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+div.baseHeader p {
+    font-size: 15pt;
+}
+
+h1.titreCV {
+  text-transform: uppercase;
+}
+
+div.global {
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+div.contenuCV {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-size: 13pt;
+  padding: 2em;
+  padding-left: 50px;
+}
+
+div.colorProfil {
+  background:linear-gradient(to right,
+    rgba(23, 165, 137, 1) 0%,
+    rgba(23, 165, 137, 1) 3%,
+    rgba(255,255,255,1) 3%,
+    rgba(255,255,255,0) 100%);
+}
+
+div.contentExperience {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5vh;
+  box-shadow: 5px 10px 15px #575555;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+div.colorExperience {
+  background:linear-gradient(to right,
+    rgba(227, 161, 60, 1) 0%,
+    rgba(227, 161, 60, 1) 3%,
+    rgba(255,255,255,1) 3%,
+    rgba(255,255,255,0) 100%);
+}
+
+div.contentExperience h1,h2,h3,h4{
+  font-size: 18pt;
+  margin:.2em;
+  font-weight: 400;
+}
+
+div.contentExperience p {
+  margin-left: 0.2em;
+  font-size: 16pt;
+}
+
+/*------------------ Veille Juridique ------------------ */
+
+div.veilleJuridique {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input.btTelecharger {
+  margin: 1em auto;
+  padding: 1em;
+  width: 50%;
+  border: none;
+  border-radius: 5px;
+  background-color: #ff5370;
+  color: white;
+  font-weight: bold;
+  font-size: 12pt;
+  float: right;
+  cursor: pointer;
+}
+
+input.btTelecharger:hover {
+  opacity: .5;
+  transition: 1s;
+}
+
+/*------------------ Présentation BTS SIO ------------------ */
+
+div.presentation {
+  width: 100%;
+  height: auto;
+}
+
+div.banner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  text-align: center;
+}
+
+div.banner h1 {
+  position: absolute;
+  color: white;
+  font-size: 7vw;
+  z-index: 1;
+}
+
+div.banner img {
+  z-index: 0;
+  width: 100vw;
+  height: 100vh;
+  filter: blur(.5em);
+}
+
+div.card {
+  margin: 0 auto;
+  margin-top: 10vh;
+  border-radius: 1em;
+  padding: 1em;
+  box-shadow: 5px 10px 15px #575555;
+  background-color: white
+}
+
+div.sio {
+  width: 80%;
+  height: auto;
+  margin-bottom: 20vh;
+}
+
+div.option {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #19b5fe, #4d05e8);
+  padding-bottom: 2em;
+}
+
+div.sisr, div.slam {
+  width: 40vw;
+  height: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (max-width: 800px) {
+  div.option {
+    flex-direction: column;
+  }
+
+  div.sisr, div.slam {
+    width: 80vw;
+  }
+}
+
+/*------------------ Code partie droite ------------------ */
+
+div.droite {
+  z-index: 3;
+  background-color: #263238;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  z-index: 1;
+  overflow-y: scroll;
+  transition: .5s;
+}
+
+div.droite::-webkit-scrollbar {
+  width: 0px;
+}
+
+pre.block {
+  margin: 0;
+}
+
+code.code {
+  font-family: Fira Mono,Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;
+  text-align: left;
+  white-space: pre-line;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: break-word;
+  -moz-tab-size: 2;
+  -o-tab-size: 2;
+  tab-size: 2;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  counter-reset: a;
+}
+
+span.line {
+  counter-increment: i;
+  display: inline-table;
+  padding-left: 3ch;
+  position: relative;
+}
+
+span.line:before {
+  content: counter(i) "\a●\a●\a●\a●\a●\a●\a●\a●\a●\a●";
+    display: inline-block;
+  opacity: .75;
+  color: white;
+  position: absolute;
+  width: 3ch;
+  top: 0;
+  bottom: 0;
+  left: -1ch;
+  overflow: hidden;
+  text-align: right;
+}
+
+span.line:after {
+  opacity: .25;
+  content: "¬";
+}
+
+span.space {
+  opacity: .25;
+  display: table-cell;
+  vertical-align: top;
+  position: relative;
+  white-space: pre;
+}
+
+span.space:before {
+  content: "··········";
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+span.key {
+  color: rgb(130, 177, 255);
+}
+
+span.value {
+  color: #ff5370;
+}
+
+span.const {
+  color: #e6cd69;
+}
+
+span.param {
+  color :#a074c4;
+}
+
+/*------------------ Footer ------------------ */
+
+div.footer {
+  width: 100%;
+  height: 15vh;
+  background-color: #444140;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+div.footer p {
+  margin: 0;
+  font-size: 15pt;
+}
