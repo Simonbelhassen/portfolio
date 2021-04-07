@@ -3,9 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="//db.onlinewebfonts.com/c/ac437ca8426dbd7386bffda59c59a599?family=Bariol+Regular" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="public/css/main.css">
-    <script type="text/javascript"="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <title>Portfolio-Thomas-LEBRET</title>
   </head>
   <body>
