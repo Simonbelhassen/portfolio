@@ -9,12 +9,12 @@
   <hr class="separator">
     <article class="paragraph">
          <p>J'ai <?= $age ?> ans et je suis originaire de la région Indre-et-Loire et j'habite
-           actuellement en Ile-de-France à La Forêt Le Roi.
+           actuellement en Ile-de-France au sein de la commune de La Forêt Le Roi.
            <br><br>
-           J'ai développé une passion pour l'informatique depuis le collège en trouvant par hasard un
-           script bash sur un ordinateur du collège et progessivement, je me suis mis à m'intéresser à la
-            programmation en essayant de réaliser des choses de plus en plus complexes en fonction des connaissances
-            que j'emmagasinais.
+           Passionné par le fonctionnement des programmes informatiques, j’ai appris les bases 
+           du C++ et Python que j’ai continué à développer de façon autonome depuis plusieurs années.
+           En essayant de réaliser des choses de plus en plus complexes en fonction des connaissances, j'ai 
+           pu poursuivre sereinement mes études en BTS SIO.
            <br><br>
 
          Ayant développé une soif inextinguible de connaissances en matière de programmation en tout genre que j'ai
@@ -25,9 +25,8 @@
          En dehors de ma passion pour l'informatique, je joue à un jeu de cartes à collectionner qui s'appelle Yu-Gi-Oh.
 
          <br>
-
-           Ce jeu de cartes possède énormément de règles assez compliquées à appréhender mais parce que la difficulté de concevoir
-           un jeu de cartes efficace existe, je m'y pris de passion.
+           Ce jeu de cartes possède énormément de règles assez complexes à appréhender mais parce qu'il existe
+           une réelle difficulté dans ce jeu, je m'y pris de passion.
          </p>
          <a href="#formation"><button type="button" name="btnNext" class="btnNext">Découvrir mes formations</button></a>
 

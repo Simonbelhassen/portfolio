@@ -1,5 +1,5 @@
 <div id="formation">
-  <h1 style="text-align:center;">Mon parcours</h1>
+  <h1 style="text-align:center; text-transform: uppercase;">Mon parcours</h1>
 
 <div class="timeline-container">
 
