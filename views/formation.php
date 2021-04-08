@@ -1,5 +1,7 @@
 <div id="formation">
-  <h1 style="text-align:center; text-transform: uppercase;">Mon parcours</h1>
+<h1 style="text-transform: uppercase;">Formation</h1>
+<hr class="separator">
+  <h2 style="text-align:center; text-transform: uppercase;">Mon parcours</h2>
 
 <div class="timeline-container">
 
@@ -47,7 +49,9 @@
       <p>Définition et implémentation d'un outil de recensement et de qualification des incidents du centre de calcul</p>
     </div>
   </div>
-
-
 </div>
+
+<a href="public/documents/CV.pdf" download="cv_LEBRET" ><button type="button" name="btnNext" class="btnNext">Télécharger mon CV</button></a>
+
+
 </div>

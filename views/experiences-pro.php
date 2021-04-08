@@ -4,7 +4,7 @@
     <div class="container">
     <div class="experience">
         <img rel="CEA" src="public/img/cea.png">
-        <a href="#">
+        <a href="#" target="_blank">
         <div class="content">
           <h3>Stage au CEA de Bruyère Le Châtel</h3>
           <br>
@@ -27,4 +27,6 @@
       </div>
 
     </div>
+    <a href="https://github.com/ThomasLEBRET/" target="_blank"><button type="button" name="btnNext" class="btnNext"><img width="42" height="42" src="public/img/github.svg" alt="GitHub">Voir mon profil GitHub</button></a>
+
 </div>

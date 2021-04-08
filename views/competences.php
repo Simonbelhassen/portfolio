@@ -66,6 +66,13 @@
         <h2>Environnement</h2>
         <br>
         <div class="competences">
+            <h3>Git, GitHub</h3>
+            <div class="border">
+                <div class="content" style="width: 70%"></div>
+            </div>
+        </div>
+
+        <div class="competences">
             <h3>Bases de données : MySQL, phpMyAdmin, <br>
                 adminer</h3>
             <div class="border">
