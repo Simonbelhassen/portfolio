@@ -45,7 +45,7 @@
     <div class="marker"></div>
     <div class="timeline-content">
       <h3>2021</h3>
-      <span>Stage CEA Bruyère Le Châtel</span>
+      <span>Stage CEA Bruyères Le Châtel</span>
       <p>Définition et implémentation d'un outil de recensement et de qualification des incidents du centre de calcul</p>
     </div>
   </div>

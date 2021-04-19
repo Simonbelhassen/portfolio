@@ -27,6 +27,7 @@
       </div>
 
     </div>
+    <br> <br>
     <a href="https://github.com/ThomasLEBRET/" target="_blank"><button type="button" name="btnNext" class="btnNext"><img width="42" height="42" src="public/img/github.svg" alt="GitHub">Voir mon profil GitHub</button></a>
 
 </div>

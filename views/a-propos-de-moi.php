@@ -8,25 +8,26 @@
   <h1 class="title">à propos de moi</h1>
   <hr class="separator">
     <article class="paragraph">
-         <p>J'ai <?= $age ?> ans et je suis originaire de la région Indre-et-Loire et j'habite
+         <p>J'ai <?= $age ?> ans, je suis originaire de la région Centre Val de Loire et j'habite
            actuellement en Ile-de-France au sein de la commune de La Forêt Le Roi.
            <br><br>
-           Passionné par le fonctionnement des programmes informatiques, j’ai appris les bases 
-           du C++ et Python que j’ai continué à développer de façon autonome depuis plusieurs années.
-           En essayant de réaliser des choses de plus en plus complexes en fonction des connaissances, j'ai 
-           pu poursuivre sereinement mes études en BTS SIO.
+           Passionné par le fonctionnement des programmes informatiques, j’ai appris les bases
+           du C++ et Python que j’ai approfondies de façon autonome depuis plusieurs années.
+           J'ai réalisé des choses de plus en plus complexes en fonction de mes connaissances. Et j'ai
+           poursuivi mes études en BTS Services Informatiques aux Organisations (SIO).
            <br><br>
 
-         Ayant développé une soif inextinguible de connaissances en matière de programmation en tout genre que j'ai
-         décidé d'en faire mon métier.
+         C'est en ayant développé une forte envie naturelle de connaissances en matière de programmation
+         que j'ai décidé d'en faire mon métier.
 
          <br>
 
-         En dehors de ma passion pour l'informatique, je joue à un jeu de cartes à collectionner qui s'appelle Yu-Gi-Oh.
+         En dehors de ma passion pour l'informatique,
+         je joue à un jeu de cartes à collectionner qui s'appelle Yu-Gi-Oh.
 
          <br>
            Ce jeu de cartes possède énormément de règles assez complexes à appréhender mais parce qu'il existe
-           une réelle difficulté dans ce jeu, je m'y pris de passion.
+           une réelle difficulté dans ce jeu, je m'y suis pris de passion.
          </p>
          <a href="#formation"><button type="button" name="btnNext" class="btnNext">Découvrir mes formations</button></a>
 
@@ -34,17 +35,18 @@
 
     <article class="paragraph">
          <p>
-           J'ai intégré un filière générale au lycée et j'ai obtenu mon baccalauréat avec option
-           Informatique et Sciences du Numérique (ISN) en me spécialisant en sciences de l'ingénieur
-           qui avait un côté plus informatique.
+           J'ai intégré une filière générale au lycée et j'ai obtenu mon baccalauréat ( qui bénéficiait d'un côté plus informatique)
+           avec option Informatique et Sciences du Numérique (ISN) en me spécialisant en sciences de l'ingénieur.
 
            <br><br>
 
-           J'ai ensuite voulu poursuivre à la fac d'Orsay en licence Math-Physique et Informatique afin
-           d'obtenir des connaissances plus théoriques en informatique mais les cours magistraux ne m'ayant pas réussi,
-           j'ai donc décidé de quitter la fac à la fin du second semestre. J'ai pu intégrer une formation en
-           BTS SIO option Solution Logicielles et Applications Métiers au Lycée Parc de Vilgénis à Massy que je prépare
-           à l'heure actuelle.
+           J'ai ensuite souhaité poursuivre à la facultée d'Orsay en licence Math-Physique et Informatique afin
+           d'obtenir des connaissances plus théoriques en informatique.
+           Les cours magistraux ne m'ayant pas réussi, j'ai donc décidé de quitter l'université Paris-Saclay
+           à la fin du second semestre.
+           J'ai pu intégrer une formation en BTS SIO option
+           Solutions Logicielles et Applications Métiers que je prépare
+           actuellement au Lycée Parc de Vilgénis à Massy.
          </p>
          <a href="#competences"><button type="button" name="btnNext" class="btnNext">Découvrir mes compétences</button></a>
     </article>

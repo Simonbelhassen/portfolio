@@ -7,28 +7,27 @@
             <h2>L'informatique quantique</h2>
             <br>
             <p>
-                L'informatique quantique est un sous-domaine de l'informatique traitant des calculateurs quantiques, 
-                c'est à dire des calculateurs ne manipulant plus des bits (qui sont dans des états stables 1 ou 0) mais 
+                L'informatique quantique est un sous-domaine de l'informatique traitant des calculateurs quantiques,
+                c'est à dire des calculateurs ne manipulant plus des bits (qui sont dans des états stables 1 ou 0) mais
                 plutôt des qubits (superposition d'états entre 1 et 0).
             </p>
             <br>
             <p>
                 Cette technologie a vu le jour à cause d'un problème fondamental en informatique basé sur la loi de Moore (1965).
-                D'après cette loi empirique, la complexité des processeurs et leur quantité doublement tous les 18 mois.
-                A terme, cette loi pourrait devenir fausse à cause des effets à très petites échelles. Afin de ne plus subir ces 
-                effets quantiques, Richard Feynman suggéra de changer de paradigme afin de ne plus subir ces changements quantiques
-                mais de les exploiter afin de paralléliser les calculs.
+                D'après cette loi empirique, la complexité des processeurs et leur quantité doublent tous les 18 mois.
+                À terme, cette loi pourrait devenir fausse à cause des effets à très petites échelles. Afin de ne plus subir ces
+                effets quantiques, Richard Feynman suggéra de changer de paradigme et de les exploiter afin de paralléliser les calculs.
             </p>
             <br>
             <p>
                 Face à ce problème, l'informatique quantique s'est posée comme l'outil permettant de résoudre des problèmes
-                hors de portée des machines de Turing classique à l'époque et aujourd'hui, hors de portée de nos ordinateurs
-                "classiques". 
+                hors de portée des machines de Turing classiques à l'époque et aujourd'hui, hors de portée de nos ordinateurs
+                "modernes".
             </p>
             <br>
             <p>
-                Cette technologie tend à être développée dans le futur car elle permet de palier aux limites 
-                actuelles de notre informatique. 
+                Cette technologie tend à être développée dans le futur car elle permet de palier les limites
+                actuelles de notre informatique.
                 <br> <br>
                 Aujourd'hui, où en sommes-nous dans le monde ?
             </p>
