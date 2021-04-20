@@ -27,8 +27,8 @@
     <div class="marker"></div>
     <div class="timeline-content">
       <h3>2019-2020</h3>
-      <span>1ère année BTS SIO (option SLAM)</span>
-      <p>Début de mon BTS Services Informatique Organisation option Solutions Logicielles et Applications Métiers</p>
+      <span>1ère année BTS SIO</span>
+      <p>Début de mon BTS SIO option SLAM</p>
     </div>
   </div>
 
