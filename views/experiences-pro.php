@@ -28,6 +28,7 @@
 
     </div>
     <br> <br>
+    <h3>Pour voir mes différents projets dont mes projets de PPE, ils sont tous hébergé sur mon GitHub</h3>
     <a href="https://github.com/ThomasLEBRET/" target="_blank"><button type="button" name="btnNext" class="btnNext"><img width="42" height="42" src="public/img/github.svg" alt="GitHub">Voir mon profil GitHub</button></a>
 
 </div>
