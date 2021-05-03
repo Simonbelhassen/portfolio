@@ -12,12 +12,12 @@
            actuellement en Ile-de-France au sein de la commune de La Forêt Le Roi.
            <br><br>
            Passionné par le fonctionnement des programmes informatiques, j’ai appris les bases
-           du C++ et Python que j’ai approfondies de façon autonome depuis plusieurs années.
-           J'ai réalisé des choses de plus en plus complexes en fonction de mes connaissances. Puis, j'ai
-           poursuivi mes études en BTS Services Informatiques aux Organisations (SIO).
+           du C++ et Python que j’ai approfondi de manière autonome depuis plusieurs années.
+           Je me suis entraîné à réaliser de petits programmes de plus en plus complexes en fonction de mes connaissances. 
+           J'ai par la suite poursuivi mes études en BTS Services Informatiques aux Organisations (SIO).
            <br><br>
 
-         C'est en ayant alimenté mon envie naturelle de connaissances en matière de programmation
+         C'est en ayant alimenté mon envie naturelle de connaissances en la matière
          que j'ai décidé d'en faire mon métier.
 
          <br>
@@ -26,7 +26,7 @@
          je joue à un jeu de cartes à collectionner qui s'appelle Yu-Gi-Oh.
 
          <br>
-           Ce jeu de cartes possède énormément de règles assez complexes à appréhender mais parce qu'il existe
+           Ce jeu de cartes possède énormément de règles assez complexes à appréhender mais c'est parce qu'il existe
            une réelle difficulté dans ce jeu, je m'y suis pris de passion.
          </p>
          <a href="#formation"><button type="button" name="btnNext" class="btnNext">Découvrir mes formations</button></a>

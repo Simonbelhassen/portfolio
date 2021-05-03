@@ -3,7 +3,7 @@
     <p class="title">Bienvenu sur mon portfolio !</p>
 
     <p class="paragraph">
-       Je m'appelle Thomas LEBRET, je suis un passionné d'informatique et de jeux de cartes à jouer et à collectionner.
+       Je m'appelle Thomas LEBRET, &nbsp;je suis un passionné d'informatique et de jeux de cartes à jouer et à collectionner.
        <br>
        Ce site a pour but de présenter mon parcours scolaire et professionnel ainsi que les compétences que j'ai pu acquérir notamment durant ma formation initiale.
 
