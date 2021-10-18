@@ -8,30 +8,30 @@
         <h2>Langage</h2>
         <br>
         <div class="competences">
-            <h3>Front End : HTML, CSS, JavaScript</h3>
+            <h3>Front End : Html 5, CSS 3, <br>JavaScript</h3>
             <div class="border">
-                <div class="content" style="width: 85%"></div>
+                <div class="content" style="width: 90%"></div>
             </div>
         </div>
 
         <div class="competences">
-            <h3>Back End : PHP SQL</h3>
+            <h3>Back End : PHP, SQL,  XML</h3>
             <div class="border">
-                <div class="content" style="width: 80%"></div>
+                <div class="content" style="width: 90%"></div>
             </div>
         </div>
 
         <div class="competences">
-            <h3>Java, C#, C++, Python</h3>
+            <h3>Java, Python</h3>
             <div class="border">
-                <div class="content" style="width: 75%"></div>
+                <div class="content" style="width: 50%"></div>
             </div>
         </div>
 
         <div class="competences">
             <h3>Ajax</h3>
             <div class="border">
-                <div class="content" style="width: 50%"></div>
+                <div class="content" style="width: 80%"></div>
             </div>
         </div>
 
@@ -41,16 +41,16 @@
         <h2>Framework</h2>
         <br>
         <div class="competences">
-            <h3>CSS : Bootstrap, Bulma</h3>
+            <h3>CSS : Bootstrap</h3>
             <div class="border">
                 <div class="content" style="width: 70%"></div>
             </div>
         </div>
 
         <div class="competences">
-            <h3>PHP : CodeIgniter, Laravel</h3>
+            <h3>PHP : Symfony, Laravel</h3>
             <div class="border">
-                <div class="content" style="width: 50%"></div>
+                <div class="content" style="width: 80%"></div>
             </div>
         </div>
 
@@ -74,7 +74,7 @@
 
         <div class="competences">
             <h3>Bases de données : MySQL, phpMyAdmin, <br>
-                adminer</h3>
+            MCD / MLD</h3>
             <div class="border">
                 <div class="content" style="width: 80%"></div>
             </div>
