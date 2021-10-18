@@ -51,7 +51,7 @@
   </div>
 </div>
 
-<a href="public/documents/CV.pdf" download="cv_LEBRET" ><button type="button" name="btnNext" class="btnNext">Télécharger mon CV</button></a>
+<a href="public/documents/CV.pdf"><button type="button" name="btnNext" class="btnNext">Télécharger mon CV</button></a>
 
 
 </div>
