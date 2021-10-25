@@ -164,8 +164,10 @@ hr.separator {
  }
 
  div.qualites div.content img {
-   width: 50%;
-   height: auto;
+  width: 250px;
+  height: 250px;
+  margin: 3px;
+  border-radius: inherit;
  }
 
  /* Formation */

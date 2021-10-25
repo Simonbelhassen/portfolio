@@ -8,7 +8,7 @@
         <h2>Langage</h2>
         <br>
         <div class="competences">
-            <h3>Front End : Html 5, CSS 3, <br>JavaScript</h3>
+            <h3>Front End : Html 5, CSS 3</h3>
             <div class="border">
                 <div class="content" style="width: 90%"></div>
             </div>
@@ -48,16 +48,16 @@
         </div>
 
         <div class="competences">
-            <h3>PHP : Symfony, Laravel</h3>
+            <h3>PHP : Symfony , Laravel</h3>
             <div class="border">
                 <div class="content" style="width: 80%"></div>
             </div>
         </div>
 
         <div class="competences">
-            <h3>Python : Django, Flask</h3>
+            <h3>Python : Django</h3>
             <div class="border">
-                <div class="content" style="width: 50%"></div>
+                <div class="content" style="width: 60%"></div>
             </div>
         </div>
     </div>
@@ -73,7 +73,7 @@
         </div>
 
         <div class="competences">
-            <h3>Bases de données : MySQL, phpMyAdmin, <br>
+            <h3>Bases de données : MySQL, <br> phpMyAdmin, <br>
             MCD / MLD</h3>
             <div class="border">
                 <div class="content" style="width: 80%"></div>
@@ -99,17 +99,16 @@
         <h2>Outils bureautique</h2>
         <br>
         <div class="competences">
-            <h3>IDE : Visual Studio Code, Atom, <br>
-                SublimText, NetBean, Visual Studio</h3>
+            <h3>IDE : Visual Studio Code, <br> SublimText, NetBean</h3>
             <div class="border">
-                <div class="content" style="width: 95%"></div>
+                <div class="content" style="width: 90%"></div>
             </div>
         </div>
 
         <div class="competences">
             <h3>Suite Office</h3>
             <div class="border">
-                <div class="content" style="width: 80%"></div>
+                <div class="content" style="width: 60%"></div>
             </div>
         </div>
     </div>
