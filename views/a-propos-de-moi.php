@@ -8,7 +8,7 @@
   <h1 class="title">à propos de moi</h1>
   <hr class="separator">
     <article class="paragraph">
-          <p>J'ai <?= $age ?> ans, je suis originaire de Sarcelles, département du Val-d'Oise en région Île-de-France. 
+          <p>J'ai <?= $age ?> ans, je suis originaire de Sarcelles, dans le département du Val-d'Oise en région Île-de-France. 
            <br><br>
            Passionné par le développement de site web, j’en ai appris les bases il y a plusieurs années, bases que j’ai approfondi durant mon BTS Services Informatiques aux Organisations (SIO) option SLAM.
            <br><br>
