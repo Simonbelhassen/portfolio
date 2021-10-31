@@ -115,12 +115,22 @@
 </div>
 
 <h2>Diplômes et certifications</h2>
-<div class="containerDipExp">
-    <a href="public/documents/pix.pdf" download="pix_LEBRET2019.txt" style="text-decoration: none; color: white;">
+<div class="containerDipExp" style="height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;">
+    <a href="public/documents/attestation_atelier_rgpd.pdf" download="attestation_atelier_rgpd.pdf" style="text-decoration: none; color: white;">
         <div class="diplome">
-            <h3>Certification PIX (2019)</h3>
-            <br>
-            <p><b>Code d'authentification : </b>P-7HQQHTY9</p>
+            <h3> Attestation d'un Atelier RGPD (2020)</h3> <br> <br>
+        </div>
+    </a>
+
+
+
+
+    <a href="public/documents/MOOC.png" download="MOOC.png" style="text-decoration: none; color: white;">
+        <div class="diplome">
+            <h3>Certification MOOC (2020)</h3><br><br>
         </div>
     </a>
 

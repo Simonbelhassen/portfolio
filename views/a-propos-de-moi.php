@@ -44,7 +44,7 @@
          <a href="#competences"><button type="button" name="btnNext" class="btnNext">Découvrir mes compétences</button></a>
      </article>
      <br><br><br>
-  <h1 class="center">- Mes qualités - </h1>
+  <!--<h1 class="center">- Mes qualités - </h1>
     <br>
 
     <div class="qualites">
@@ -65,5 +65,5 @@
           <br><br>
           <img src="https://medias.cerveauetpsycho.fr/api/v1/images/view/5dd3c4eb3e454601467e9e26/wide_1300/image.jpg" alt="https://medias.cerveauetpsycho.fr/api/v1/images/view/5dd3c4eb3e454601467e9e26/wide_1300/image.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 250px; height: 250px; border-radius:inherit; margin-block-start: -25px;">
         </div>
-    </div>
+    </div>-->
 </section>
