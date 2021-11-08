@@ -62,6 +62,6 @@
 
 </div>
 
-<a href="public/documents/CV.pdf"><button type="button" name="btnNext" class="btnNext">Télécharger mon CV (pdf)</button></a>
+<a href="public/documents/CV.pdf"><button type="button" name="btnNext" class="btnNext">Consulter mon CV (pdf)</button></a>
 
 </div>

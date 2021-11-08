@@ -26,11 +26,16 @@
   </div>
 
 
-
+  <div class="containerDipExp" 
+    style="display: flex; 
+    align-items: center;
+    justify-content: center;">
+<a href="public/documents/tableau.pdf"><button type="button" name="btnNext" class="btnNext">Tableau De Compétences(pdf)</button></a>
+</div>
 
 
     <br> <br>
     <h3>Pour voir mes différents projets réaliser durant mon parcours scolaires, ils sont tous hébergé sur mon GitHub</h3>
-    <a href="https://github.com/Simonbelhassen/" target="_blank"><button type="button" name="btnNext" class="btnNext"><img width="42" height="42" src="public/img/github.svg" alt="GitHub">Voir mon profil GitHub</button></a>
+    <a href="https://github.com/Simonbelhassen/" target="_blank"><button type="button" name="btnNext" class="btnNext"><img width="40" height="40" src="public/img/github.svg" alt="GitHub">Voir mon profil GitHub</button></a>
 
 </div>
