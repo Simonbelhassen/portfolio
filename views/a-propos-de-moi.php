@@ -21,7 +21,7 @@
            <br><br>
            Durant mon BTS SIO option SLAM, j'ai dûe réaliser des projets de plus en plus complexes grâce a mes connaissances
            et j'ai eu l'occasion d'apprendre de plus en plus de language.
-           <br><br>
+           <br><br><br>
           </p>
           <a href="#formation"><button type="button" name="btnNext" class="btnNext">Découvrir mes formations</button></a>
        </article>
@@ -44,26 +44,4 @@
          <a href="#competences"><button type="button" name="btnNext" class="btnNext">Découvrir mes compétences</button></a>
      </article>
      <br><br><br>
-  <!--<h1 class="center">- Mes qualités - </h1>
-    <br>
-
-    <div class="qualites">
-        <div class="content">
-          <h2>Aidant</h2>
-          <br><br>
-          <img src="/public/img/help.svg" alt="Help">
-        </div>
-
-        <div class="content">
-          <h2>Autonome</h2>
-          <br><br>
-          <img src="https://lh3.googleusercontent.com/proxy/WSZt9gfJ5-Ug6NLbc3U97uvOaLnaunXPs6F-VusT75P3mBmblHEog6nxCQS9eX2vUPFR09OgVFhyDM0fjxagsCsPHXvmbOv-NsgOzDFQlQ" alt="L&amp;#39;autoformation : autonomie et autonomisation" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 250px; height: 250px; border-radius:inherit; margin-block-start: -25px;">
-        </div>
-
-        <div class="content">
-          <h2>Curieux</h2>
-          <br><br>
-          <img src="https://medias.cerveauetpsycho.fr/api/v1/images/view/5dd3c4eb3e454601467e9e26/wide_1300/image.jpg" alt="https://medias.cerveauetpsycho.fr/api/v1/images/view/5dd3c4eb3e454601467e9e26/wide_1300/image.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 250px; height: 250px; border-radius:inherit; margin-block-start: -25px;">
-        </div>
-    </div>-->
 </section>

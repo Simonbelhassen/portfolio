@@ -108,7 +108,7 @@
     </div>
 </div>
 <br><br>
-<h2><u> Diplômes et certifications</u></h2>
+<h2><u> Diplômes et Certifications : </u></h2>
 <div class="containerDipExp" style="height: 200px;
     display: flex;
     align-items: center;
@@ -118,9 +118,6 @@
             <h3> Attestation d'un Atelier RGPD (2020)</h3> <br> <br>
         </div>
     </a>
-
-
-
 
     <a href="public/documents/MOOC.png" download="MOOC.png" style="text-decoration: none; color: white;">
         <div class="diplome">

@@ -46,10 +46,11 @@
     <div class="marker"></div>
     <div class="timeline-content">
       <h3>2021</h3>
-      <span>Stage Fast & Concept</span>
+      <span><a href="#experiences-pro" style="color: white;">Stage Fast & Concept</a></span>
       <p>Dévelopement de la partie admin d'un site e-commerce pour des machines a jus d'orange </p>
     </div>
   </div>
+
 
   <div class="timeline-block timeline-block-left">
     <div class="marker"></div>
