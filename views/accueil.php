@@ -10,6 +10,8 @@
        <br>
        <br>
        BONNE VISITE !
+       <br>
+       <br>
     </p>
 
     <a href="#a-propos-de-moi"><button type="button" name="btnNext" class="btnNext">En savoir plus</button></a>
