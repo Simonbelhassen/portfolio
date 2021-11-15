@@ -11,7 +11,6 @@
         <li><a class="nav-link" href="#formation">Formation</a></li>
         <li><a class="nav-link" href="#competences">Compétences</a></li>
         <li><a class="nav-link" href="#experiences-pro">Expériences professionnelles</a></li>
-        <li><a class="nav-link" href="#veille-technologique">Veille Technologique</a></li>
       </ul>
     </div>
   </nav>

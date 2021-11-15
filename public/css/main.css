@@ -395,59 +395,6 @@ div#experiences-pro .container .experience:hover img {
   opacity: 1;
 }
 
-/* Veille technologique */
-
-div#veille-technologique {
-  padding-top: 10vh;
-}
-
-div#veille-technologique div.container {
-  width: 100%;
-  height: auto;
-}
-
-div#veille-technologique div.container div.article {
-  margin: 0 auto;
-  width: 70vw;
-  height: auto;
-}
-
-div#veille-technologique div.container div.article p {
-  font-size: 15pt;
-}
-
-div#veille-technologique div.container div.containerArticles {
-  width: 100%;
-  height: auto;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  margin-top: 5vh;
-}
-
-div#veille-technologique div.container div.containerArticles .grid {
-  display: flex;
-  flex-direction: column;
-  margin: 1em;
-  flex-wrap: wrap;
-}
-
-div#veille-technologique div.container div.containerArticles div.article {
-  width: 50%;
-  height: auto;
-  margin-top: 2vh;
-  border: 1px solid white;
-  padding: 3em;
-  margin: 1em;
-  text-align: center;
-}
-
-div#veille-technologique div.container div.containerArticles div.article a {
-  text-decoration: none;
-  color:white;
-  font-size: 20pt;
-}
-
  /* Footer */
 
 footer {
@@ -501,9 +448,6 @@ footer {
     align-items: center;
   }
 
-  div#veille-technologique div.container div.containerArticles .grid {
-    flex-direction: row;
-  }
 
   div#experiences-pro .container .experience .content {
     display: none;
