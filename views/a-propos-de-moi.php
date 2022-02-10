@@ -9,27 +9,26 @@
 <h1 class="title">À propos de moi</h1>
   <hr class="separator">
       <article class="paragraph">
-          <p>J'ai <?= $age ?> ans, je suis originaire de Sarcelles, 
-           dans le département du Val-d'Oise en région Île-de-France. 
+          <p>J'ai <?= $age ?> ans, je suis de Saint-Brice, dans le département du Val-d'Oise en région Île-de-France. 
            <br><br>
-           Passionné par le développement de site web, j’en ai appris les bases il y a plusieurs années, 
-           bases que je compte consolider durant mes différentes années d'études et de formation.
+           Passionné par le développement de site web, en Terminale je me suis orienté vers cette voie ; 
+           
+           <br>J'en ai appris les bases. 
+           Je désire à présent consolider mes acquis et me perfectioner durant mes prochaines années d'études.
            <br><br>
            J'ai intégré une filière technologique au lycée ORT de Villiers Le Bel 
            et j'ai obtenu mon baccalauréat STMG metion bien
            avec comme option Systèmes d'Information et de Gestion (SIG) 
            <br><br>
-           Durant mon BTS SIO option SLAM, j'ai dûe réaliser des projets de plus en plus complexes grâce a mes connaissances
-           et j'ai eu l'occasion d'apprendre de plus en plus de language.
-           <br><br><br>
+       <br><br><br>
           </p>
           <a href="#formation"><button type="button" name="btnNext" class="btnNext">Découvrir mes formations</button></a>
        </article>
      <article class="paragraph">
-        <p>
+        <p> 
           C'est en ayant alimenté mon envie naturelle de connaissances en la matière que j'ai décidé d'en faire mon métier.
-           <br><br>
-           Durant mon BTS SIO option SLAM, j'ai dûe réaliser des projets de plus en plus complexes grâce a mes connaissances
+          <br><br>
+           Durant mon BTS SIO option SLAM, j'ai dû réaliser des projets de plus en plus complexes grâce à mes connaissances
            et j'ai eu l'occasion d'apprendre de plus en plus de language.
            <br><br>
            J'ai ensuite poursuivi une formation en BTS SIO option

@@ -1,6 +1,6 @@
 <div class="parallax" id="accueil">
   <div class="center">
-    <p class="title">Bienvenu sur mon Portfolio !</p>
+    <p class="title">Bienvenue sur mon Portfolio !</p>
 
     <p class="paragraph">
        Je m'appelle Simon Belhassen, &nbsp;je suis un passionné d'informatique et de design web.
