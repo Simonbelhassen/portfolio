@@ -39,7 +39,9 @@
     <br><br><br><br>
     <h3>Vous pouvez également les télécharger</h3>
     <br>
-    <a href="public/documents/Projet-Casino.rar" download="Projet-Casino.rar" target="_blank"><button type="button" name="btnNext" class="btnNext">Projet-Casino</button></a>
+    <a href="public/documents/Projet-Casino-Simon-BTS-1.zip" download="Projet-Casino-Simon-BTS-1.zip" target="_blank"><button type="button" name="btnNext" class="btnNext">Projet Casino</button></a>
+    <a href="public/documents/Projet-GSB-PHP-Simon-BTS-2.zip" download="Projet-GSB-PHP-Simon-BTS-2.zip" target="_blank"><button type="button" name="btnNext" class="btnNext">Projet GSB-PHP</button></a>
+    <a href="public/documents/Projet-GSB-JAVA-Simon-BTS-2.zip" download="Projet-GSB-JAVA-Simon-BTS-2.zip" target="_blank"><button type="button" name="btnNext" class="btnNext">Projet GSB-JAVA</button></a>
     <br><br><br><br>
 
 </div>

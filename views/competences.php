@@ -22,17 +22,10 @@
         </div>
 
         <div class="competences">
-            <h3>Java, Python</h3>
+            <h3>Java, Python, Ajax</h3>
           <!--   <div class="border">
                 <div class="content" style="width: 50%"></div>
             </div>--> 
-        </div>
-
-        <div class="competences">
-            <h3>Ajax</h3>
-           <!--   <div class="border">
-                <div class="content" style="width: 80%"></div>
-            </div>-->
         </div>
 
     </div>
@@ -48,7 +41,7 @@
         </div>
 
         <div class="competences">
-            <h3><u>PHP</u> : Symfony , Laravel</h3>
+            <h3><u>PHP</u> : Symfony 5 , Laravel</h3>
           <!--    <div class="border">
                 <div class="content" style="width: 80%"></div>
             </div>-->
@@ -73,18 +66,10 @@
         </div>
 
         <div class="competences">
-            <h3><u>Bases de données</u> : MySQL, <br> phpMyAdmin, <br>
-            MCD / MLD</h3>
+            <h3><u>Bases de données</u> : MySQL, <br> phpMyAdmin, MCD / MLD <br></h3>
            <!--  <div class="border">
                 <div class="content" style="width: 80%"></div>
             </div>--> 
-        </div>
-
-        <div class="competences">
-            <h3>Linux</h3>
-         <!--     <div class="border">
-                <div class="content" style="width: 80%"></div>
-            </div>-->
         </div>
 
     </div>
@@ -100,7 +85,7 @@
         </div>
 
         <div class="competences">
-            <h3>Suite Office</h3>
+            <h3>Suite Office / Logiciel Apple</h3>
            <!--   <div class="border">
                 <div class="content" style="width: 60%"></div>
             </div>-->

@@ -1,7 +1,7 @@
 <div id="formation">
 <h1 style="text-transform: uppercase;">Formation</h1>
 <hr class="separator">
-  <h2 style="text-align:center; text-transform: uppercase;"> <u> Mon parcours </u></h2>
+  <h2 id="parcours" style="text-align:center; text-transform: uppercase;"> <u> Mon parcours </u></h2>
 
 <div class="timeline-container">
 
@@ -60,6 +60,16 @@
       <p>Diplôme en cours d'obtention</p>
     </div>
   </div>
+
+  <div class="timeline-block timeline-block-right">
+    <div class="marker"></div>
+    <div class="timeline-content">
+      <h3>2022</h3>
+      <span><a href="#experiences-pro" style="color: white;">Stage Fast & Concept</a></span>
+      <p>Dévelopement de la partie client d'un site e-commerce pour des machines a jus d'orange </p>
+    </div>
+  </div>
+
 
 </div>
 
